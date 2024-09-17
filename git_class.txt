@@ -2,4 +2,4 @@
 - Difference between git and github
 - Setting up and installing git and github
 - Creating github respository
-- Using git commands; git init, git push, git commit, git log, git status, git rebase e.t.c.
+- Using git commands; git init, git push, git pull, git branch, git switch, fit fetch, git commit, git log, git status, git rebase e.t.c.

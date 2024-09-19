@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
   
 - **Tools:**
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,linear,jira,clickup,trello" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim" />
 
 - **Frameworks & Platforms:**
   <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,nginx" />

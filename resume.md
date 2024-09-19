@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![OMOTOMIWA RAHEEM AFONJA](https://omotomiwa26.wixsite.com/afonja-omotomiwa) 👋 
+# [OMOTOMIWA RAHEEM AFONJA](https://omotomiwa26.wixsite.com/afonja-omotomiwa) 👋 
 
 ----
 

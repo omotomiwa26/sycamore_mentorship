@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
   
 - **Tools:**
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,linear,jira,click-up,trello," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,linear,jira,clickup,trello," />
 
 - **Frameworks & Platforms:**
   <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,nginx" />
@@ -52,7 +52,7 @@
 
 ### :chart_with_upwards_trend: Product Management Projects
 
-[HNG Boilerplate](https://bulldozer-php.teams.hng.tech/) – A SAAS product for Rapid Application Development.
+- [HNG Boilerplate](https://bulldozer-php.teams.hng.tech/) – A SAAS product for Rapid Application Development.
 - [Delve](https://delve.fun/) – Language Learning AI game that uses gamification elements such as badges, leader-board and challenges with immersive 3D characters for language learning thereby enhancing user engagement and experience.
 
 ---

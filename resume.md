@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
   
 - **Tools:**
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,linear,jira,clickup,trello," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,linear,jira,clickup,trello" />
 
 - **Frameworks & Platforms:**
   <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,nginx" />
@@ -44,16 +44,16 @@
 
 ### :star: Software Engineering Projects
 - [LexiVault](https://github.com/omotomiwa26/Lexi_Vault) – An Advanced Web App Dictionary.
-- [simple_shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX commandline interpreter.
-- [Java-GUI-Grade-Calculator](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-) – Java Grade calculator with class of grade using java graphical user interface JFrame.
-- [Mathematical-software](https://github.com/omotomiwa26/Mathematical-software) – Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
+- [simple_shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX command-line interpreter.
+- [Java-GUI-Grade-Calculator](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-) – A Java GUI Grade calculator with class of grade.
+- [Mathematical-software](https://github.com/omotomiwa26/Mathematical-software) – An Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
 
 ---
 
 ### :chart_with_upwards_trend: Product Management Projects
 
-- [HNG Boilerplate](https://bulldozer-php.teams.hng.tech/) – A SAAS product for Rapid Application Development.
-- [Delve](https://delve.fun/) – Language Learning AI game that uses gamification elements such as badges, leader-board and challenges with immersive 3D characters for language learning thereby enhancing user engagement and experience.
+- [HNG Boilerplate](https://bulldozer-php.teams.hng.tech/) – A SAAS product for Rapid Web-Application Development.
+- [Delve](https://delve.fun/) – A Language Learning AI game web application that uses gamification elements such as badges, leader-board and challenges with immersive 3D characters for language learning thereby enhancing user engagement and experience.
 
 ---
 

@@ -44,9 +44,9 @@
 
 ### :star: Software Engineering Projects
 - [LexiVault](https://github.com/omotomiwa26/Lexi_Vault) – An Advanced Web App Dictionary.
-- [simple_shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX command-line interpreter.
+- [Simple_Shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX command-line interpreter.
 - [Java-GUI-Grade-Calculator](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-) – A Java GUI Grade calculator with class of grade.
-- [Mathematical-software](https://github.com/omotomiwa26/Mathematical-software) – An Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
+- [Mathematical-Software](https://github.com/omotomiwa26/Mathematical-software) – An Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
 
 ---
 

@@ -42,27 +42,18 @@
 
 ---
 
-### :open_folder: Software Engineering Projects
-<div align="center">
-
+### :star: Software Engineering Projects
 - [LexiVault](https://github.com/omotomiwa26/Lexi_Vault) – An Advanced Web App Dictionary.
 - [simple_shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX commandline interpreter.
 - [Java-GUI-Grade-Calculator](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-) – Java Grade calculator with class of grade using java graphical user interface JFrame.
 - [Mathematical-software](https://github.com/omotomiwa26/Mathematical-software) – Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
 
-
-</div>
-
 ---
 
-### :folder: Product Management Projects
-<div align="center">
+### :chart_with_upwards_trend: Product Management Projects
 
 [HNG Boilerplate](https://bulldozer-php.teams.hng.tech/) – A SAAS product for Rapid Application Development.
 - [Delve](https://delve.fun/) – Language Learning AI game that uses gamification elements such as badges, leader-board and challenges with immersive 3D characters for language learning thereby enhancing user engagement and experience.
-
-
-</div>
 
 ---
 

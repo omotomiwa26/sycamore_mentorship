@@ -1,10 +1,15 @@
 <div align="center">
 
-# [OMOTOMIWA RAHEEM AFONJA](https://omotomiwa26.wixsite.com/afonja-omotomiwa) 👋 
+# OMOTOMIWA RAHEEM AFONJA👋 
+
+<omotomiwa26@gmail.com>
 
 ----
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+|+Product+Manager;Technical+Mentor+|+Database+Manager;AI+Explorer+|+Researcher.;)](https://git.io/typing-svg)
+
+[Porfolio](https://omotomiwa26.wixsite.com/afonja-omotomiwa)
+[Curricullum Vitae](https://drive.google.com/file/d/1EHQOxkATv9m83oeqYgQpuMpgWOV-2e0Q/view?usp=sharing)
 
 ---
 

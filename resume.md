@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
   
 - **Tools:**
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,linear,jira,click-up,trello," />
 
 - **Frameworks & Platforms:**
   <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,nginx" />
@@ -41,23 +41,23 @@
 
 ---
 
-### :star: Projects
+### :folder: Software Engineering Projects
+<div align="center">
+
 - [LexiVault](https://github.com/omotomiwa26/Lexi_Vault) – An Advanced Web App Dictionary.
 - [simple_shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX commandline interpreter.
 - [Java-GUI-Grade-Calculator](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-) – Java Grade calculator with class of grade using java graphical user interface JFrame.
 - [Mathematical-software](https://github.com/omotomiwa26/Mathematical-software) – Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omotomiwa26&repo=simple_shell&theme=tokyonight)](https://github.com/omotomiwa26/simple_shell)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omotomiwa26&repo=Java-GUI-Grade-Calculator-&theme=tokyonight)](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-)
+</div>
 
 ---
 
-### :chart_with_upwards_trend: GitHub Stats
+### :folder: Product Management Projects
 <div align="center">
 
-![Omotomiwa26's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omotomiwa26&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
+[HNG Boilerplate](https://bulldozer-php.teams.hng.tech/) – A SAAS product for Rapid Application Development.
+- [Delve](https://delve.fun/) – Language Learning AI game that uses gamification elements such as badges, leader-board and challenges with immersive 3D characters for language learning thereby enhancing user engagement and experience.
 
 </div>
 
@@ -77,7 +77,6 @@
 
 <a href="https://twitter.com/i_am_omotomiwa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/afonja-omotomiwa-6b80b61b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 
 </div>

@@ -1,0 +1,1 @@
+## This directory contains week3 assingment files for sycamore mentorship program

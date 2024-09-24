@@ -1,1 +1,1 @@
-## This directory contains the summary of git training for sycamore mentorship program by [Akinwande Akinboluwarin](https://github.com/bolubee101)
+## This directory contains git files for sycamore mentorship program by [Akinwande Akinboluwarin](https://github.com/bolubee101) and [Tola Abiodun](https://github.com/TolaAbiodun)

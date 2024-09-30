@@ -1,0 +1,23 @@
+{
+  "name": "week4_day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic_exp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node basic_exp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omotomiwa26/sycamore_mentorship.git"
+  },
+  "author": "omotomiwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omotomiwa26/sycamore_mentorship/issues"
+  },
+  "homepage": "https://github.com/omotomiwa26/sycamore_mentorship#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

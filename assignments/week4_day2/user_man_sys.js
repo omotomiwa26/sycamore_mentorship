@@ -53,5 +53,5 @@ app.put('/users/:id', (req, res) => {
 
 app.delete('/users/:id', (req, res) => {
     const id = req.params.id;
-    res.json({ message: `User with ${id} deleted` });
+    res.json({ message: `User with id ${id} deleted` });
 });     

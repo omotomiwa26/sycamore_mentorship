@@ -46,12 +46,12 @@ app.post('/users', (req, res) => {
 });
 
 app.put('/users/:id', (req, res) => {
-    const user_id = req.params.id;
-    const updated_data = req.body;
-    res.json({ message: `User with id ${user_id} updated`, user: data_updated });
+    const id = req.params.id;
+    const updated_json = req.body;
+    res.json({ message: `User with id ${id} updated`, user: updated_json });
     });
 
 app.delete('/users/:id', (req, res) => {
-    const user_id = req.params.id;
-    res.json({ message: `User ${user_id} deleted` });
+    const id = req.params.id;
+    res.json({ message: `User with ${id} deleted` });
 });     

@@ -34,19 +34,22 @@ const Product = mongoose.model('Product', productSchema);
 
 const insertProduct = async (name, price, category) => {
     try {
-        const product = new Product({
+        Product.insertMany([{
             name: 'Iphone 16',
             price: '$5000',
             category: 'Mobiles',
-
+        },
+        {
             name: 'Washing Machine',
             price: '$4000',
             category: 'Home Appliances',
-
+        },
+        {
             name: 'Macbook Pro',
             price: '$2500',
             category: 'Laptops'
-        });
+        }
+        ]);
         const saved_product = await product.save();
         console.log(`Product Saved Succesfully: ${saved_product}`);
     } catch (error) {
@@ -74,8 +77,8 @@ listProducts();
 const updateProduct = async (name, price) => {
     try {
         const updated_product = await Product.findOneAndUpdate(
-            { name: name }, 
-            { price: price }, 
+            { name: name },
+            { price: price },
             { new: true });
         console.log(`Product Updated Succesfully: ${updated_product}`);
     }
@@ -90,7 +93,7 @@ updateProduct('Iphone 16', '$6000');
 
 const deleteProduct = async (name) => {
     try {
-        const deleted_product = await Product.findOneAndDelete({ name: name});
+        const deleted_product = await Product.findOneAndDelete({ name: name });
         console.log(`Product Deleted Succesfully: ${deleted_product}`);
     }
     catch (error) {
@@ -98,8 +101,14 @@ const deleteProduct = async (name) => {
     }
 }
 
-deleteProduct('Macbook Pro');
+// deleteProduct('Macbook Pro');
 
 //Close the connection
 
 //mongoose.connection.close();
+
+
+
+
+
+

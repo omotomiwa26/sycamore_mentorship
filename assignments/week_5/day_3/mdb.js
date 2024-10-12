@@ -101,7 +101,7 @@ const deleteProduct = async (name) => {
     }
 }
 
-// deleteProduct('Macbook Pro');
+deleteProduct('Macbook Pro');
 
 //Close the connection
 

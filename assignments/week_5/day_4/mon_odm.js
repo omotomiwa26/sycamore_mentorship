@@ -91,7 +91,7 @@ const populateBooksWithAuthors = async () => {
 // createBook(authorId, 'Our Husband Has Run Mad Again', 'Drama',);
 // populateBooksWithAuthors()
 (async () => {
-    const authorId = await createAuthor('Ola Rotimi', 'oa@gmail.com', 'Nigerian');
-    await createBook(authorId, 'Ths gods Must Be Crazy', 'Drama');
+    const authorId = await createAuthor('Robert Kiyosaki', 'rk@gmail.com', 'American');
+    await createBook(authorId, 'Rich Dad, Poor Dad ', 'Biography');
     await populateBooksWithAuthors();
 })();

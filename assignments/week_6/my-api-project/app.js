@@ -8,7 +8,7 @@ app.use(express.json()); // Parses JSON requests
 app.use('/api', userRoutes);
 
 app.get('/', (req, res) => {
-    res.send('Welcome to the API!');
+    res.send('<h1 style="color: Blue";>Welcome To My-API-Project!</h1>');
 });
 
 module.exports = app;

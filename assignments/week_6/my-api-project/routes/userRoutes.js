@@ -8,7 +8,7 @@ const users = [
   { id: 2, name: 'Omotomiwa A', email: 'oa@sycamore.ng', stack: 'BE' },
   { id: 3, name: 'Paul A', email: 'pa@sycamore.ng', stack: 'ME' }
 ]
-
+users[users.length - 1].id + 1,
 //Route to list all users
 router.get('/users', (req, res) => {
   res.json(users);
@@ -18,8 +18,8 @@ router.get('/users', (req, res) => {
 router.post('/users', (req, res) => {
   console.log(req.body)
   users.push({
-      id: users[users.length - 1].id + 1,
-      name: req.body.name,
+      id:    users[users.length - 1].id + 1,
+      name:  req.body.name,
       email: req.body.email,
       stack: req.body.stack
     })

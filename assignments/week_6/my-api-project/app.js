@@ -6,6 +6,12 @@ const app = express();
 // for JSON requests in the req.body
 app.use(express.json()); 
 
+// Logging middleware to output the HTTP method and URL
+app.use((req, res, next) => {
+    console.log(`${req.method} ${req.url}`);
+    next();
+  });
+
 //for the user route
 app.use('/api', userRoutes);
 

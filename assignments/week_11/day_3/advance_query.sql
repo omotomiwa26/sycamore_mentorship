@@ -20,6 +20,14 @@ on a.id = b.author_id
 --Exercise 3: Using RIGHT JOIN
 --Write a query to retrieve all books and their corresponding authors. Include books without a known author.
 
+select b.title, a.name
+from
+books b
+right join 
+authors a
+on 
+b.author_id = a.id
+
 --Exercise 4: Using FULL JOIN
 --Write a query to retrieve all books and authors, even if they don’t match.
 

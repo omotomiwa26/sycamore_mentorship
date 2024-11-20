@@ -31,4 +31,10 @@ b.author_id = a.id
 --Exercise 4: Using FULL JOIN
 --Write a query to retrieve all books and authors, even if they don’t match.
 
-
+select b.title, b.genre, b.publication_year, b.price, a.name, a.country, a.birth_year
+from
+books b
+full join 
+authors a
+on 
+b.author_id = a.id

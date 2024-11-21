@@ -6,6 +6,13 @@ group by genre, title
 --Exercise 2: Filtering with HAVING
 --Write a query to find all authors who have written more than one book.
 
+select count(a.name), b.title
+from authors a
+join
+books b
+on a.id = b.author_id
+group by b.title
+having count(a.name) > 1
 
 --Exercise 3: Sorting Results
 --Retrieve all books and sort them alphabetically by title.

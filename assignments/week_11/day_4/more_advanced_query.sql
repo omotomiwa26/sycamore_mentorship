@@ -10,6 +10,8 @@ group by genre, title
 --Exercise 3: Sorting Results
 --Retrieve all books and sort them alphabetically by title.
 
+select * from books
+order by title asc
 
 --Exercise 4: Combining Clauses
 --Write a query to retrieve the top 2 genres by total sales, with total sales • greater than 50.

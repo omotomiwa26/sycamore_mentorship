@@ -14,4 +14,15 @@ select * from books
 order by title asc
 
 --Exercise 4: Combining Clauses
---Write a query to retrieve the top 2 genres by total sales, with total sales • greater than 50.
+--Write a query to retrieve the top 2 genres by total sales, with total sales  greater than 50.
+
+select b.genre, sum(s.quantity) as total_sales
+from books b
+join 
+sales s
+on
+b.id = s.book_id
+group by b.genre, s.quantity
+having sum(s.quantity) > 50
+order by s.quantity desc
+limit 2
